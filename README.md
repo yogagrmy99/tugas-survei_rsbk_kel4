@@ -4,7 +4,9 @@ Ramdhani Batari	(21120117120021)
 Yoga Pratama	(21120117140017)
 
 Link:
-- Github: 
+- Github			: 	
+- S3/Homepage		: https://rsbk-uts.s3.amazonaws.com/index.html
+- Instance/Survei	: http://54.85.56.28/
 
 Tutorial membuka aplikasi di Eclipse
 

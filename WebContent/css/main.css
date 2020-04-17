@@ -6,8 +6,8 @@
 [ FONT ]*/
 
 @font-face {
-  font-family: JosefinSans-Bold;
-  src: url('../fonts/JosefinSans/JosefinSans-Bold.ttf'); 
+  font-family: Calibri;
+  src: url('../fonts/JosefinSans/Calibri.ttf'); 
 }
 
 @font-face {
@@ -26,12 +26,12 @@
 
 body, html {
 	height: 100%;
-	font-family: JosefinSans-Bold, sans-serif;
+	font-family: Calibri, sans-serif;
 }
 
 /*---------------------------------------------*/
 a {
-	font-family: JosefinSans-Bold;
+	font-family: Calibri;
 	font-size: 14px;
 	line-height: 1.7;
 	color: #666666;
@@ -56,7 +56,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 p {
-	font-family: JosefinSans-Bold;
+	font-family: Calibri;
 	font-size: 14px;
 	line-height: 1.7;
 	color: #666666;
@@ -169,7 +169,7 @@ iframe {
 
 .contact100-form-title {
   display: block;
-  font-family: JosefinSans-Bold;
+  font-family: 'Roboto', sans-serif;
   font-size: 30px;
   color: #333333;
   line-height: 1.2;
@@ -192,7 +192,7 @@ iframe {
   display: block;
   width: 100%;
   background: transparent;
-  font-family: JosefinSans-Bold;
+  font-family: Calibri;
   font-size: 15px;
   color: #1b3815;
   line-height: 1.2;
@@ -387,7 +387,7 @@ textarea.input100 {
   height: 42px;
   background-color: #57b846;
 
-  font-family: JosefinSans-Bold;
+  font-family: 'Roboto', sans-serif;
   font-size: 14px;
   color: #fff;
   line-height: 1.2;
@@ -438,7 +438,7 @@ textarea.input100 {
   right: 2px;
   pointer-events: none;
 
-  font-family: JosefinSans-Bold;
+  font-family: Calibri;
   color: #c80000;
   font-size: 13px;
   line-height: 1.4;
