@@ -1,11 +1,11 @@
 Kelompok 4:
-Arya Naradana	(21120117140024)
-Ramdhani Batari	(21120117120021)
-Yoga Pratama	(21120117140017)
+- Arya Naradana	(21120117140024)
+- Ramdhani Batari	(21120117120021)
+- Yoga Pratama	(21120117140017)
 
 Link:
-- Github			: 	
-- S3/Homepage		: https://rsbk-uts.s3.amazonaws.com/index.html
+- Github			    : 	https://github.com/yogagrmy99/tugas-survei_rsbk_kel4
+- S3/Homepage		  : https://rsbk-uts.s3.amazonaws.com/index.html
 - Instance/Survei	: http://54.85.56.28/
 
 Tutorial membuka aplikasi di Eclipse
